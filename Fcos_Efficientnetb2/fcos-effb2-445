@@ -1,0 +1,1 @@
+wget -c ftp://openexplorer@vrftp.horizon.ai/ModelZoo/fcos-effb2-445.onnx --ftp-password='c5R,2!pG'
