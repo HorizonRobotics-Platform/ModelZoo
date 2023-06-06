@@ -1,0 +1,1 @@
+wget -c ftp://openexplorer@vrftp.horizon.ai/ModelZoo/efficientnet_lite3-720P.onnx --ftp-password='c5R,2!pG'
